@@ -177,7 +177,7 @@ h1{
 
     font-family: sans-serif;
     position: absolute;
-    left: -70px;
+    top: -1%;
     font-size: 34px;
     font-style: oblique;
     color:blueviolet;
@@ -189,7 +189,7 @@ h1{
     position: absolute;
     top: 40%;
     left:5%;
-    width: 450px;
+    width: 90%;
     height: 40%;
     
 }
@@ -199,7 +199,7 @@ h1{
     position: absolute;
     top: 10%;
     left: 4%;
-    width: 450px;
+    width: 90%;
     height: 29%;
     
 }
